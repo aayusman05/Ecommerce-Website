@@ -1,1 +1,2 @@
 # Ecommerce-Website
+Customers can purchase goods online through this Database Management System project, and the administrator can input the product's name and create a receipt for the purchase.  The administrator can see the product's annual, monthly, and daily reports, including order details by year, order details by day, customer maximum payment methods, and overall order details.  The database will contain customer orders, and based on the order details, a bill will be issued and the consumer will be responsible for paying it.
